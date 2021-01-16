@@ -1,5 +1,7 @@
 # osworks
 
+## Projeto JAVA Feito pela AlgaWorks com o Objetivo de Demonstrar uma API REST de ServiceDesk
+
 #### Ignorar Alterações Apenas Localmente no Git
 
 1. Alterar o arquivo exclude [$GIT_DIR/info/exclude]
