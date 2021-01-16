@@ -13,5 +13,10 @@
 #### Atualizar Arquivo .gitignore
 git rm -r --cached <file-name.extension>
 
+#### Adicionando App em Repositorio Remoto ja Existente no Heroku
+
+```bash
+heroku git:remote -a staging-app
+```
  
  
